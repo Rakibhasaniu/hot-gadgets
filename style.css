@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 100px;
+}
+
+
+h1{
+    color: black;
+}
+p{
+    color: gray;
+}
+.btn{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+h4{
+    color: #eb5b08;
+}
+.card-item{
+    box-shadow: 10px 10px 10px lightgray;
+}
